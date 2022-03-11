@@ -15,3 +15,5 @@ With this the shift value can be over 9000 on a char set that has just 100 entri
 
 This is also done to make the encryption a little “safer”, because to decrypt it the charset, shift value and the number of encryption runs needs to be known.  
 But this does not change the fact that the caesar cipher is highly insecure and should not be used to encrypt sensitive data.
+
+![sample image](https://raw.githubusercontent.com/basicx-StrgV/Caesar/main/images/caesarSample.png)
